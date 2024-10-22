@@ -13,5 +13,12 @@
   "keywords": [
     "jezl",
     "luscombe"
-  ]
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/JeremyJamesL/jezl-node-cli",
+  "author": {
+    "name": "JeremyJamesL",
+    "email": "jeremyluscombe@gmail.com",
+    "url": "https://twitter.com/jjdev06"
+  }
 }
