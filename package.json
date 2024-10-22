@@ -3,6 +3,7 @@
   "version": "2.0.1",
   "description": "Get to know Jezl via `npx jezl`",
   "type": "module",
+  "readme": "readme.md",
   "bin": {
     "jezl": "index.js"
   },
