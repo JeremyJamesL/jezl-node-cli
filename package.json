@@ -1,6 +1,6 @@
 {
   "name": "jezl",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get to know Jezl via `npx jezl`",
   "type": "module",
   "bin": {
