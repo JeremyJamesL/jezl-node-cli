@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import { describe } from "node:test";
 import Pkj from "./package.json" with {type: "json"};
 import welcome from "cli-welcome";
 

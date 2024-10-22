@@ -8,5 +8,9 @@
   },
   "dependencies": {
     "cli-welcome": "^3.0.0"
-  }
+  },
+  "keywords": [
+    "jezl",
+    "luscombe"
+  ]
 }
